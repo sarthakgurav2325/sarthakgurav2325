@@ -1,4 +1,4 @@
-# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Yuvraj Jagtap
+# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Sarthak Gurav
 
 - 🌱 Currently learning **C++** and **Java**  
 - 📫 Reach me at **Sarthkgurav2325@gmail.com**
@@ -49,5 +49,5 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yuvrajjagtap48&theme=react" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarthakgurav2325&theme=react" alt="GitHub Streak Stats" />
 </p>
